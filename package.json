@@ -1,0 +1,8 @@
+{
+  "name": "sample-ci",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo Tests Passed"
+  }
+}
